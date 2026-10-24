@@ -31,7 +31,7 @@ Requires Android SDK (compileSdk 36), JDK 17+, Gradle 8.10+. Output: `app/build/
 
 ## Design canon
 
-Part of the **Blackshield** theme family (see [cachyos-blackshield](https://github.com/synthalorian/cachyos-blackshield) for the full Linux desktop livery):
+Part of the **Blackshield** theme family (see [cachyos-blackshield](https://github.com/Blackshield-Company/cachyos-blackshield) for the full Linux desktop livery):
 
 | Token | Value |
 |---|---|

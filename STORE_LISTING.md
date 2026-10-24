@@ -37,7 +37,7 @@ Personalization
 - Exact-alarm permission is device-only scheduling — declare "no data
   collected"; mention in the form's permission justification if asked.
 - Privacy policy URL:
-  https://github.com/synthalorian/blackshield-clock-widget/blob/main/PRIVACY.md
+  https://github.com/Blackshield-Company/blackshield-clock-widget/blob/main/PRIVACY.md
 
 ## Store assets (in repo)
 - store-assets/icon-512.png (hi-res icon)
